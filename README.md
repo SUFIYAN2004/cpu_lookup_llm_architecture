@@ -124,4 +124,4 @@ This is an experimental project. It is not production software and makes no clai
 
 ## License
 
-Add your preferred license here (for example MIT).
+MIT.
