@@ -224,9 +224,6 @@ Real KenLM runs automatically if the `kenlm` Python module and the `lmplz` binar
 
 ---
 
-## Acknowledgements
-
-Thanks to Rohan Ganesh, who suggested benchmarking against standard baselines (which led to [BENCHMARK.md](BENCHMARK.md)), and to Mohammed Salman for feedback along the way.
 
 ## Disclaimer
 
